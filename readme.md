@@ -6,6 +6,11 @@ IMG_01                     |  IMG_02
 :-------------------------:|:-------------------------:
 ![](https://i.imgur.com/0mozlfX.jpeg)  |  ![](https://i.imgur.com/WYAdtk9.jpeg)
 
+IMG_03                     |
+:-------------------------:|
+![](https://i.imgur.com/WhLr3hq.png)  |
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
