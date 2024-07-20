@@ -1,9 +1,10 @@
-# RTX 3070 Custom
-
-<img width="200px" src="https://i.imgur.com/0mozlfX.jpeg" />
-<img width="200px" src="https://i.imgur.com/WYAdtk9.jpeg" />
+# 🖥️ RTX 3070 Custom
 
 This repository contains code for an ESP32 microcontroller and a Windows executable using Windows Forms and .NET Framework. Together, they form a system consisting of a custom display for an RTX 3070 graphics card, showing GPU usage and temperature.
+
+IMG_01                     |  IMG_02
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/0mozlfX.jpeg)  |  ![](https://i.imgur.com/WYAdtk9.jpeg)
 
 ## Table of Contents
 
